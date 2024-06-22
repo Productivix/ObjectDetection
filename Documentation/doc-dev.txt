@@ -1,0 +1,14 @@
+22/06/24 : de Object Detection in React Native
+Seamless object detection using ML Kit and TensorFlow
+Chaitanyaa Adaki
+https://medium.com/simform-engineering/object-detection-in-react-native-c6858789dd6b Dec 23 
+
+voir modèles de https://www.kaggle.com/models?tfhub-redirect=true
+
+ TensorFlow Hub has been integrated with Kaggle Models. You can now access 2,300+ TensorFlow models published on TensorFlow Hub by Google, DeepMind, and more. 
+
+voir :
+android/app/src/main/java/com/objdetection/CustomObjectDetectionModule.java
+fonctionne , mais quid de la personnalisation ?? là:
+https://developers.google.com/ml-kit/vision/object-detection/custom-models/android?hl=fr#kotlin
+
